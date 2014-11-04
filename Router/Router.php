@@ -6,8 +6,6 @@ require "AARouter.php";
 
 class Router 
 {
-    protected $routes = array();
-    
     protected static $adapter;
 
     protected static $adapterClass;
